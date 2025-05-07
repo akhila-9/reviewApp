@@ -1,0 +1,24 @@
+.heading{
+    color:#fff;
+    font-family:Roboto;
+    font-size:30px;
+    font-weight: bold;
+}
+.imgstyle{
+    height:100px;
+    width:100px
+}
+.imagesStyles{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}
+.entirecontainer{
+    display: flex
+
+    ; 
+    gap:20px;   height: 250px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+}
